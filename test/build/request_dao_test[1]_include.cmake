@@ -1,0 +1,5 @@
+if(EXISTS "/home/antoine/CLionProjects/pigraid-friend-service/test/build/request_dao_test[1]_tests.cmake")
+  include("/home/antoine/CLionProjects/pigraid-friend-service/test/build/request_dao_test[1]_tests.cmake")
+else()
+  add_test(request_dao_test_NOT_BUILT request_dao_test_NOT_BUILT)
+endif()
