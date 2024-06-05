@@ -2,8 +2,8 @@
 // Created by antoine on 02/06/24.
 //
 
-#ifndef FRIEND_SERVICE_REQUEST_DAO_H
-#define FRIEND_SERVICE_REQUEST_DAO_H
+#ifndef PIGRAID_FRIEND_SERVICE_REQUEST_DAO_H
+#define PIGRAID_FRIEND_SERVICE_REQUEST_DAO_H
 
 
 #include "../models/request.h"
@@ -28,4 +28,4 @@ public:
 };
 
 
-#endif //FRIEND_SERVICE_REQUEST_DAO_H
+#endif //PIGRAID_FRIEND_SERVICE_REQUEST_DAO_H

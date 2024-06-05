@@ -2,8 +2,8 @@
 // Created by antoine on 03/06/24.
 //
 
-#ifndef FRIEND_SERVICE_REQUEST_DTO_H
-#define FRIEND_SERVICE_REQUEST_DTO_H
+#ifndef PIGRAID_FRIEND_SERVICE_REQUEST_DTO_H
+#define PIGRAID_FRIEND_SERVICE_REQUEST_DTO_H
 
 #include <oatpp/core/macro/codegen.hpp>
 #include <oatpp/core/Types.hpp>
@@ -24,4 +24,4 @@ class request_dto : public oatpp::DTO {
 
 #include OATPP_CODEGEN_END(DTO)
 
-#endif //FRIEND_SERVICE_REQUEST_DTO_H
+#endif //PIGRAID_FRIEND_SERVICE_REQUEST_DTO_H

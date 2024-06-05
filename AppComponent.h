@@ -1,5 +1,5 @@
-#ifndef FRIEND_SERVICE_APPCOMPONENT_H
-#define FRIEND_SERVICE_APPCOMPONENT_H
+#ifndef PIGRAID_FRIEND_SERVICE_APPCOMPONENT_H
+#define PIGRAID_FRIEND_SERVICE_APPCOMPONENT_H
 
 #include "oatpp/web/server/HttpConnectionHandler.hpp"
 #include "oatpp/web/server/HttpRouter.hpp"
@@ -51,4 +51,4 @@ public:
     }());
 };
 
-#endif // FRIEND_SERVICE_APPCOMPONENT_H
+#endif // PIGRAID_FRIEND_SERVICE_APPCOMPONENT_H

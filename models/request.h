@@ -2,8 +2,8 @@
 // Created by antoine on 02/06/24.
 //
 
-#ifndef FRIEND_SERVICE_REQUEST_MODEL_H
-#define FRIEND_SERVICE_REQUEST_MODEL_H
+#ifndef PIGRAID_FRIEND_SERVICE_REQUEST_MODEL_H
+#define PIGRAID_FRIEND_SERVICE_REQUEST_MODEL_H
 
 #include <string>
 #include <chrono>
@@ -145,4 +145,4 @@ public:
 };
 
 
-#endif //FRIEND_SERVICE_REQUEST_MODEL_H
+#endif //PIGRAID_FRIEND_SERVICE_REQUEST_MODEL_H

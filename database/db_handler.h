@@ -2,8 +2,8 @@
 // Created by antoine on 02/06/24.
 //
 
-#ifndef FRIEND_SERVICE_DB_HANDLER_H
-#define FRIEND_SERVICE_DB_HANDLER_H
+#ifndef PIGRAID_FRIEND_SERVICE_DB_HANDLER_H
+#define PIGRAID_FRIEND_SERVICE_DB_HANDLER_H
 
 
 #include <mongocxx/uri.hpp>
@@ -21,4 +21,4 @@ public:
 };
 
 
-#endif //FRIEND_SERVICE_DB_HANDLER_H
+#endif //PIGRAID_FRIEND_SERVICE_DB_HANDLER_H
