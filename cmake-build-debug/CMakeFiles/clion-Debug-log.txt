@@ -1,16 +1,4 @@
 /app/extra/clion/bin/cmake/linux/x64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/app/extra/clion/bin/ninja/linux/x64/ninja -DCMAKE_TOOLCHAIN_FILE=/home/antoine/.vcpkg-clion/vcpkg/scripts/buildsystems/vcpkg.cmake -G Ninja -S /home/antoine/CLionProjects/friend_service -B /home/antoine/CLionProjects/friend_service/cmake-build-debug
--- The C compiler identification is GNU 13.2.0
--- The CXX compiler identification is GNU 13.2.0
--- Detecting C compiler ABI info
--- Detecting C compiler ABI info - done
--- Check for working C compiler: /usr/bin/cc - skipped
--- Detecting C compile features
--- Detecting C compile features - done
--- Detecting CXX compiler ABI info
--- Detecting CXX compiler ABI info - done
--- Check for working CXX compiler: /usr/bin/c++ - skipped
--- Detecting CXX compile features
--- Detecting CXX compile features - done
 CMake Deprecation Warning at cmake-build-debug/_deps/nlohmann_json-src/CMakeLists.txt:1 (cmake_minimum_required):
   Compatibility with CMake < 3.5 will be removed from a future version of
   CMake.
@@ -20,11 +8,6 @@ CMake Deprecation Warning at cmake-build-debug/_deps/nlohmann_json-src/CMakeList
 
 
 -- Using the single-header code from /home/antoine/CLionProjects/friend_service/cmake-build-debug/_deps/nlohmann_json-src/single_include/
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD
--- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
--- Found Threads: TRUE  
--- Found OpenSSL: /home/antoine/.vcpkg-clion/vcpkg/installed/x64-linux/debug/lib/libcrypto.a (found version "3.3.0")  
--- Found SASL2: 2.1.28 (found suitable version "2.1.28", minimum required is "2.0") 
--- Configuring done (2.5s)
+-- Configuring done (0.3s)
 -- Generating done (0.0s)
 -- Build files have been written to: /home/antoine/CLionProjects/friend_service/cmake-build-debug

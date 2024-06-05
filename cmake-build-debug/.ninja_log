@@ -1,6 +1,6 @@
 # ninja log v5
 8	3335	1717537481837779357	CMakeFiles/friend_service.dir/database/db_handler.cpp.o	8831ebc5856d25ef
-1	365	1717603306757498935	build.ninja	88cd87dd7570b170
+1	365	1717604881213003909	build.ninja	88cd87dd7570b170
 9	5119	1717537483617884714	CMakeFiles/friend_service.dir/daos/request_dao.cpp.o	798c24edaaafda1a
 10	3182	1717602700043791830	CMakeFiles/friend_service.dir/daos/relation_dao.cpp.o	eaf7b10a0d4247ce
 9	8862	1717602705716935172	CMakeFiles/friend_service.dir/main.cpp.o	d64454b42dc05d7
